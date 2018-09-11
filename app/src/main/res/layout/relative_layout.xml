@@ -19,7 +19,7 @@
         app:fontFamily="monospace" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnBack3"
         android:layout_width="178dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -29,11 +29,11 @@
         android:text="BACK" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/btnNext3"
         android:layout_width="178dp"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
-        android:layout_alignTop="@+id/button3"
+        android:layout_alignTop="@+id/btnBack3"
         android:layout_weight="1"
         android:text="NEXT" />
 
@@ -52,8 +52,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="188dp"
-        android:layout_marginStart="34dp"
+        android:layout_marginBottom="185dp"
+        android:layout_marginStart="21dp"
         android:text="Location:      Korea"
         android:textSize="18sp" />
 
@@ -61,9 +61,8 @@
         android:id="@+id/textView9"
         android:layout_width="280dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
+        android:layout_alignStart="@+id/textView"
         android:layout_below="@+id/textView"
-        android:layout_marginStart="32dp"
         android:layout_marginTop="-185dp"
         android:text="Distance from Manila:     2600km"
         android:textSize="18sp" />

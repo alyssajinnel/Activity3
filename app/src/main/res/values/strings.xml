@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Activity3</string>
+    <string name="next">Next</string>
+    <string name="Japan">Japan</string>
+    <string name="Maldives">Maldives</string>
+    <string name="Korea">Korea</string>
+    <string name="MainPage">Main</string>
+    <string name="mainpage">Main Page</string>
+    <string name="main">MAIN PAGE</string>
 </resources>
